@@ -1,5 +1,5 @@
 body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
@@ -11,9 +11,12 @@ body {
 .navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-nav li a, header {
     color: #565A5C;
 }
-h1, h2, h3, h4, h5, h6 {
+.navbar-custom, h1, h2, h3, h4, h5, h6 {
     font-family: Raleway,sans-serif;
 }
-.navbar-custom, header .intro-text .name {
-    font-family: Cabin Sketch,sans-serif;
+.intro-header .page-heading h1 {
+  font-family: Cabin Sketch,sans-serif;
+}
+header .site-heading .subheading {
+  font-family: Raleway,sans-serif;
 }
