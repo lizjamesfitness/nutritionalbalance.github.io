@@ -5,3 +5,6 @@ body {
     color: #333;
     background-color: #FFFBFF;
 }
+.navbar-custom, header  {
+    background: #FFFBFF;
+}
