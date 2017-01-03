@@ -11,6 +11,9 @@ body {
 .navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-nav li a, header {
     color: #565A5C;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-family: Raleway,sans-serif;
+}
 .navbar-custom, header .intro-text .name {
     font-family: Cabin Sketch,sans-serif;
 }
