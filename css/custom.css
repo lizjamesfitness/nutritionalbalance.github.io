@@ -31,3 +31,6 @@ header .site-heading .subheading {
 footer a.fa:focus, a.fa:hover {
     color: #0AA58D;
 }
+.intro-header .site-heading h1 {
+    font-size: 74px;
+}
