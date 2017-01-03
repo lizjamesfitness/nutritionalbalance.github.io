@@ -28,3 +28,6 @@ header .site-heading .subheading {
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
     color: #E387A7; /*rgba(227,135,167,.8);*/
   }
+footer a.fa:focus, a.fa:hover {
+    color: #0AA58D;
+}
