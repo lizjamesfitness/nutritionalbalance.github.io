@@ -24,8 +24,7 @@ header .site-heading .subheading {
     font-family: Playfair Display,serif;
     font-weight: 400;
 }
-@media only screen and (min-width: 768px) {
+
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
     color: #E387A7; /*rgba(227,135,167,.8);*/
   }
-}
