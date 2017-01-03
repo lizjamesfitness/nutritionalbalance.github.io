@@ -26,5 +26,5 @@ header .site-heading .subheading {
 }
 @media only screen and (min-width: 768px)
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
-    color: rgba(227,135,167,.8);
+    color: #E387A7; /*rgba(227,135,167,.8);*/
 }
