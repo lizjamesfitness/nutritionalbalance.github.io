@@ -20,7 +20,7 @@ header .site-heading h1, header .page-heading h1, header .post-heading h1 {
 header .site-heading .subheading {
   font-family: Raleway,sans-serif;
 }
-.post-preview>.post-meta, .nav-next {
+.post-preview>.post-meta, .nav-next, .nav-previous {
     font-family: Playfair Display,serif;
     font-weight: 400;
 }
@@ -36,4 +36,22 @@ footer a.fa:focus, a.fa:hover {
 }
 .intro-header .site-heading h1 {
     font-size: 74px;
+}
+.post-navigation .nav-next, .post-navigation .nav-previous {
+    border-top: solid 4px transparent;
+    display: inline-block;
+    float: left;
+    width: 50%;
+    vertical-align: top;
+    color: #404040;
+    font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 26px;
+    line-height: 1.2;
+    padding: 6% 0 7% 0;
+    transition: .07s ease-in;
+}
+.post-navigation .nav-next {
+    float: right;
+    padding-left: 5%;
+    text-align: right;
 }
