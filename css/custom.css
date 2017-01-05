@@ -20,9 +20,12 @@ header .site-heading h1, header .page-heading h1, header .post-heading h1 {
 header .site-heading .subheading {
   font-family: Raleway,sans-serif;
 }
-.post-preview>.post-meta {
+.post-preview>.post-meta, .nav-next {
     font-family: Playfair Display,serif;
     font-weight: 400;
+}
+.nav-next>a .meta-nav {
+  font-family: Raleway,sans-serif;
 }
 
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
