@@ -24,7 +24,7 @@ header .site-heading .subheading {
     font-family: Playfair Display,serif;
     font-weight: 400;
 }
-.nav-next>a .meta-nav {
+.nav-next>a .meta-nav, .nav-previous>a .meta-nav  {
   font-family: Raleway,sans-serif;
 }
 
@@ -44,8 +44,7 @@ footer a.fa:focus, a.fa:hover {
     width: 50%;
     vertical-align: top;
     color: #404040;
-    font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 26px;
+    font-size: 17.5px;
     line-height: 1.2;
     padding: 6% 0 7% 0;
     transition: .07s ease-in;
