@@ -54,3 +54,14 @@ footer a.fa:focus, a.fa:hover {
     padding-left: 5%;
     text-align: right;
 }
+.post-navigation .meta-nav {
+    clear: both;
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+    color: #777;
+    font-size: 13.5px;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
