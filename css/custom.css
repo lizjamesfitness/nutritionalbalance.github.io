@@ -68,3 +68,9 @@ footer a.fa:focus, a.fa:hover {
 .text-primary {
     color: #0AA58D;
 }
+footer .disclaimer {
+    font-size: 12px;
+    font-family: Playfair Display,serif;
+    margin-bottom: 0;
+    text-align: center;
+}
