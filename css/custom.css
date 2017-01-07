@@ -74,3 +74,11 @@ footer .disclaimer {
     margin-bottom: 0;
     text-align: center;
 }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+  .intro-header .site-heading h1 {
+      font-size: 2.25rem;
+  }
+}
